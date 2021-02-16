@@ -1,7 +1,7 @@
 ---- DONANIM TASARIM-----    -----GÖMÜLÜ YAZILIM TASARIM-----     -----ARAYUZ TASARIM------
 Hüseyin Ural                   Merve Karaman                      Mücahit Yıldırım
 Nilay Gürbüz                   Şamil Bilgin                       Kürşad Cebeci
-Sude Zeliha Havan              Abdullah Çölgeçen
+Sude Zeliha Havan              Abdullah Çölgeçen                  Mustafa Kubilay Dülger
 Alperen Uğurluoğlu
 Ceren Kılıç
 Bedirhan Ergül
